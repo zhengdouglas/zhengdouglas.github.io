@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 豆角的日记
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Douglas Zheng
+language: zh-CN
 timezone: ''
 
 # URL
@@ -62,7 +62,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: diary
 category_map:
 tag_map:
 
